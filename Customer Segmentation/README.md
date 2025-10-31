@@ -85,3 +85,8 @@ Interested in men's or children's categories
 Output: indirim_hedef_müşteri_ids.csv
 
 
+
+Neva Erdogan, 🔗 www.linkedin.com/in/nevaerdogan
+
+
+
